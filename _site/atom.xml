@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Chiangdao.in.th</title>
+ <link href="http://chiangdao.in.th/atom.xml" rel="self"/>
+ <link href="http://chiangdao.in.th"/>
+ <updated>2012-09-10T00:59:59+07:00</updated>
+ <id>http://chiangdao.in.th</id>
+ <author>
+   <name>Eak Netpanya</name>
+   <email>eak.netpanya@ilmsg.com</email>
+ </author>
+
+ 
+ 
+</feed>
